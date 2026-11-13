@@ -1,3 +1,4 @@
+print("Rekenmachine met 4 bewerkingen: +, -, * en /")
 while True:
     try:
         getal1 = int(input("Geef getal 1 in: "))
